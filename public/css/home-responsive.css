@@ -1,0 +1,460 @@
+/* Home page Responsive css */
+@media (max-width: 767.98px) {
+    
+    .banner-div {
+        width: 100%;
+        float: none;
+        margin-top: 5vh;
+    }
+    
+    .bannerhomeheading {
+        margin-top: 5vh;
+    }
+    
+    .socialDiv {
+        margin-top: 7%;
+        width: 100%;
+        float: none;
+        text-align: right;
+    }
+    
+    .button-container {
+        width: 100%;
+        height: auto;
+        margin-top: 5vh;
+        padding: 10px;
+        
+    }
+    .homeheading { 
+        margin-top: 2rem;
+    }
+    .buton-container
+    {
+        margin-top: 1%;
+        width: fit-content;
+        float: left;
+     
+        margin-left: 6%;
+       
+    }
+    .banner-heading {
+        font-size: 45px;
+        line-height: 60px;
+     
+    }
+    .banner2-heading {
+        font-size: 45px;
+        line-height: 60px;
+    }
+    
+    .banner-subheading {
+        font-size: 30px;
+        margin-left: 0;
+        text-align: center;
+        width: 128px;
+    }
+    
+    .field {
+        margin-top: 5vh;
+    }
+    .text-headings
+    {
+        font-size: 46px;
+        line-height: 93px;
+    }
+    .text-subheading
+    {
+        font-size: 57px;
+    }
+    h2 {
+        line-height: 0px;
+    }
+    .text-para {
+        margin-top: 0%;
+        font-weight: 400;
+        font-family: 'Outfit';
+        font-size: 20px;
+        line-height: 28px;
+        color: #2a6112;
+    }
+    .service1 {
+        height: auto;
+        width: 100%;
+    }
+    .service-heading
+    {
+        font-size: 32px;
+        line-height: 40px;
+        margin-top: 16px;
+    }
+    .serviceContetent {
+        padding-left: 0%;
+    }
+    .servicelist li {
+        font-size: 19px;
+        line-height: 22px;
+        margin-top: 4%;
+        align-items: center;
+    }
+    .service-text {
+        font-size: 15px;
+    }
+    .testtimonial-div {
+        margin: 0px;
+      
+    }
+    .servicedivHeading
+    {
+        margin-top: 10%;
+    }
+    .testmonials {
+        margin-left: 0px;
+    }
+    .call-heading {
+        font-size: 21px;
+    }
+    .call-subheading
+    {
+        font-size: 15px;
+    }
+    .input-group
+    {
+        display: block;
+    }
+    .form-subscribe .form-control {
+        width: 100%;
+    }
+    .form-btn
+    {
+        margin-left: 0px;
+    }
+    .form-sub
+    {
+        width: 100%;
+    }
+    .calltoaction
+    {
+        height: auto;
+    }
+    /* .scroll-container {
+        height: 116vh;
+    } */
+    .banner-right
+    {
+        padding: 0px !important;
+    }
+   
+    .servicecolumn {
+        width: 100%;
+    }
+    p.banner-text {
+        padding-left: 2rem !important;
+        padding-right: 2rem !important;
+    }
+    .vcopyright {
+        display: flex;
+        width: fit-content;
+    }
+
+}
+
+
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+   
+    .banner-div {
+        width: 100%;
+        float: none;
+        margin-top: 5vh;
+    }
+    /* .scroll-container
+    {
+        height: 115vh;
+    } */
+    .bannerhomeheading {
+        margin-top: 5vh;
+    }
+    
+    .socialDiv {
+        margin-top: 5vh;
+        width: 100%;
+        float: none;
+        text-align: right;
+    }
+    
+    .button-container {
+        width: 100%;
+        height: auto;
+        margin-top: 5vh;
+        padding: 10px;
+        
+    }
+   
+    .buton-container
+    {
+        margin-top: 2%;
+        display: inline-block;
+       width: fit-content;
+       float: left;
+    }
+    .banner-heading {
+        font-size: 45px;
+        line-height: 60px;
+      
+    }
+    .banner2-heading {
+        font-size: 45px;
+        line-height: 60px;
+    }
+    
+    .banner-subheading {
+        font-size: 30px;
+        margin-left: 0;
+        text-align: center;
+        width: 150px;
+    }
+    
+    .field {
+        margin-top: 5vh;
+    }
+    .text-headings
+    {
+        font-size: 46px;
+    }
+    .text-subheading
+    {
+        font-size: 57px;
+    }
+    h2 {
+        line-height: 0px;
+    }
+    .text-para {
+        margin-top: 0%;
+        font-weight: 400;
+        font-family: 'Outfit';
+        font-size: 20px;
+        line-height: 28px;
+        color: #2a6112;
+    }
+    .service1 {
+        height: auto;
+        width: 100%;
+    }
+    .service-heading
+    {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .serviceContetent {
+        padding-left: 0%;
+    }
+    .servicelist li {
+        font-size: 19px;
+        line-height: 22px;
+        margin-top: 4%;
+        align-items: center;
+    }
+    .service-text {
+        font-size: 14px;
+    }
+    p.li-text
+    {
+        font-size: 18px;
+    }
+    .testtimonial-div {
+        margin: 0px;
+      
+    }
+    .servicedivHeading
+    {
+        margin-top: 10%;
+    }
+    .testmonials {
+        margin-left: 0px;
+    }
+    .call-heading {
+        font-size: 33px;
+    }
+    .call-subheading
+    {
+        font-size: 17px;
+        line-height: 28px;
+    }
+    .input-group
+    {
+        display: block;
+    }
+    .form-subscribe .form-control {
+        width: 100%;
+    }
+    .form-btn
+    {
+        margin-left: 0px;
+    }
+    .form-sub
+    {
+        width: 100%;
+    }
+    .calltoaction
+    {
+        height:auto;
+    }
+    .col-md-3 {
+       
+        width: 100%;
+    }
+    .text-headings{
+        font-size: 49px;
+    
+       }
+       .servicecolumn {
+        width: 100%;
+    }
+
+}
+
+
+@media (min-width: 992px) and (max-width: 1200px){
+    .banner-div {
+        width: 100%;
+        float: none;
+        margin-top: 5vh;
+    }
+    /* .scroll-container
+    {
+        height: 112vh;
+    } */
+    .bannerhomeheading {
+        margin-top: 5vh;
+    }
+    
+    .socialDiv {
+        margin-top: 5vh;
+        width: 100%;
+        float: none;
+        text-align: right;
+    }
+    
+    .button-container {
+        width: 100%;
+        height: auto;
+        margin-top: 5vh;
+        padding: 10px;
+        
+    }
+   .text-headings{
+    font-size: 83px;
+
+   }
+
+    .buton-container
+    {
+        margin-top: 2%;
+        display: inline-block;
+        width: fit-content;
+        float: left;
+    }
+    .banner-heading {
+        font-size: 45px;
+        line-height: 60px;
+      
+    }
+    .banner2-heading {
+        font-size: 45px;
+        line-height: 60px;
+    }
+    
+    .banner-subheading {
+        font-size: 30px;
+        margin-left: 0;
+        text-align: center;
+        width: 150px;
+    }
+    
+    .field {
+        margin-top: 5vh;
+    }
+    .text-headings
+    {
+        font-size: 67px;
+
+    }
+    .text-subheading
+    {
+        font-size: 57px;
+    }
+    h2 {
+        line-height: 0px;
+    }
+    .text-para {
+        margin-top: 0%;
+        font-weight: 400;
+        font-family: 'Outfit';
+        font-size: 20px;
+        line-height: 28px;
+        color: #2a6112;
+    }
+    .service1 {
+        height: auto;
+        width: 100%;
+    }
+    .service-heading
+    {
+        font-size: 32px;
+        line-height: 40px;
+    }
+    .serviceContetent {
+        padding-left: 0%;
+    }
+    .servicelist li {
+        font-size: 19px;
+        line-height: 22px;
+        margin-top: 4%;
+        align-items: center;
+    }
+    .service-text {
+        font-size: 15px;
+    }
+    .testtimonial-div {
+        margin: 0px;
+      
+    }
+    .servicedivHeading
+    {
+        margin-top: 10%;
+    }
+    .testmonials {
+        margin-left: 0px;
+    }
+    .call-heading {
+        font-size: 35px;
+    }
+    .call-subheading
+    {
+        font-size: 17px;
+    }
+    .input-group
+    {
+        display: block;
+    }
+    .form-subscribe .form-control {
+        width: 100%;
+    }
+    .form-btn
+    {
+        margin-left: 0px;
+    }
+    .form-sub
+    {
+        width: 100%;
+    }
+    .calltoaction
+    {
+        height: auto;
+    }
+    .col-md-3 {
+       
+        width: 100%;
+    }
+}
